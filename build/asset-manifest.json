@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/zach6585/react-static-components-labstatic/css/main.98aa66ca.chunk.css",
+    "main.js": "/zach6585/react-static-components-labstatic/js/main.6b59ff99.chunk.js",
+    "main.js.map": "/zach6585/react-static-components-labstatic/js/main.6b59ff99.chunk.js.map",
+    "runtime-main.js": "/zach6585/react-static-components-labstatic/js/runtime-main.ee9e5824.js",
+    "runtime-main.js.map": "/zach6585/react-static-components-labstatic/js/runtime-main.ee9e5824.js.map",
+    "static/js/2.6ffc08ba.chunk.js": "/zach6585/react-static-components-labstatic/js/2.6ffc08ba.chunk.js",
+    "static/js/2.6ffc08ba.chunk.js.map": "/zach6585/react-static-components-labstatic/js/2.6ffc08ba.chunk.js.map",
+    "index.html": "/zach6585/react-static-components-labindex.html",
+    "static/css/main.98aa66ca.chunk.css.map": "/zach6585/react-static-components-labstatic/css/main.98aa66ca.chunk.css.map",
+    "static/js/2.6ffc08ba.chunk.js.LICENSE.txt": "/zach6585/react-static-components-labstatic/js/2.6ffc08ba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee9e5824.js",
+    "static/js/2.6ffc08ba.chunk.js",
+    "static/css/main.98aa66ca.chunk.css",
+    "static/js/main.6b59ff99.chunk.js"
+  ]
+}
